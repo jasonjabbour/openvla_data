@@ -1,0 +1,2 @@
+task,episode,step,colliding_geom
+"Task(name='pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate', language='pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate', problem='Libero', problem_folder='libero_spatial', bddl_file='pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate.bddl', init_states_file='pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate.pruned_init')",41,140,wooden_cabinet_1_g11
