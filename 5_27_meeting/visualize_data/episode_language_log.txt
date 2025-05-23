@@ -1,10 +1,25 @@
-Episode 020 (128 steps): pick up the black bowl on the ramekin and place it on the plate
-Episode 021 (97 steps): pick up the black bowl on the cookie box and place it on the plate
-Episode 026 (134 steps): pick up the black bowl between the plate and the ramekin and place it on the plate
-Episode 011 (84 steps): pick up the black bowl between the plate and the ramekin and place it on the plate
-Episode 015 (140 steps): pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
-Episode 002 (127 steps): pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
-Episode 024 (119 steps): pick up the black bowl on the ramekin and place it on the plate
-Episode 006 (124 steps): pick up the black bowl on the stove and place it on the plate
-Episode 004 (116 steps): pick up the black bowl on the ramekin and place it on the plate
-Episode 005 (107 steps): pick up the black bowl on the ramekin and place it on the plate
+Episode 002 (125 steps): pick up the black bowl next to the ramekin and place it on the plate
+Episode 014 (138 steps): pick up the black bowl next to the plate and place it on the plate
+Episode 012 (108 steps): pick up the black bowl from table center and place it on the plate
+Episode 003 (126 steps): pick up the black bowl next to the ramekin and place it on the plate
+Episode 009 (121 steps): pick up the black bowl between the plate and the ramekin and place it on the plate
+Episode 015 (106 steps): pick up the black bowl on the ramekin and place it on the plate
+Episode 019 (96 steps): pick up the black bowl between the plate and the ramekin and place it on the plate
+Episode 016 (110 steps): pick up the black bowl on the ramekin and place it on the plate
+Episode 023 (134 steps): pick up the black bowl next to the ramekin and place it on the plate
+Episode 024 (95 steps): pick up the black bowl between the plate and the ramekin and place it on the plate
+Episode 013 (97 steps): pick up the black bowl on the cookie box and place it on the plate
+Episode 006 (75 steps): pick up the black bowl between the plate and the ramekin and place it on the plate
+Episode 022 (97 steps): pick up the black bowl on the cookie box and place it on the plate
+Episode 001 (124 steps): pick up the black bowl next to the cookie box and place it on the plate
+Episode 010 (114 steps): pick up the black bowl from table center and place it on the plate
+Episode 011 (126 steps): pick up the black bowl on the stove and place it on the plate
+Episode 020 (129 steps): pick up the black bowl on the ramekin and place it on the plate
+Episode 008 (128 steps): pick up the black bowl on the stove and place it on the plate
+Episode 017 (139 steps): pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Episode 000 (156 steps): pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Episode 018 (141 steps): pick up the black bowl next to the ramekin and place it on the plate
+Episode 005 (115 steps): pick up the black bowl on the cookie box and place it on the plate
+Episode 007 (110 steps): pick up the black bowl from table center and place it on the plate
+Episode 026 (120 steps): pick up the black bowl next to the cookie box and place it on the plate
+Episode 004 (134 steps): pick up the black bowl from table center and place it on the plate
